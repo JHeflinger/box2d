@@ -5,3 +5,16 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+# binaries
+**/bin/
+bin-int/
+
+# Visual Studio clutter
+_ReSharper*
+*.sdf
+*.suo
+*.dir
+*.vcxproj*
+*.sln
+.vs
